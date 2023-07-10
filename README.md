@@ -41,23 +41,31 @@ Web browser (Chrome, Firefox, Safari, etc.)
 
 ## Frontend:
 
-React.js,
-Material UI,
-React Dom,
-React Router Dom,
-Axios
+React.js ( https://react.dev/ )
+
+Material UI ( https://mui.com/ )
+
+React Dom ( https://legacy.reactjs.org/docs/react-dom.html )
+
+React Router Dom ( https://www.npmjs.com/package/react-router-dom )
+
+Axios ( https://www.npmjs.com/package/axios )
 
 
 ## Backend:
 
-Node.js,
-Express.js,
-Dotenv
+Node.js ( https://nodejs.org/en/docs )
+
+Express.js ( https://expressjs.com/ )
+
+Dotenv ( https://www.npmjs.com/package/dotenv )
+
 
 ## Databases:
 
-MongoDB,
-Mongoose.
+MongoDB (https://www.mongodb.com/docs/)
+
+Mongoose ( https://mongoosejs.com/docs/documents.html )
 
 
 Enjoy using Email Clone and revolutionize your email experience!
