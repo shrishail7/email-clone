@@ -70,6 +70,9 @@ Mongoose ( https://mongoosejs.com/docs/documents.html )
 
 Enjoy using Email Clone and revolutionize your email experience!
 
+## API 
+SMTPJS : ( https://smtpjs.com/ )
+
 
 ### Note
 To access the source code go to master branch 
