@@ -61,3 +61,8 @@ Mongoose.
 
 
 Enjoy using Email Clone and revolutionize your email experience!
+
+
+### Note
+To access the source code go to master branch 
+will get two folders client for frontend and server for backend
