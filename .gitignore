@@ -1,6 +1,5 @@
 /.env
 /node_module
-/packet-lock.json
 /client/.env
 /client/node_modules
 /client/.env
